@@ -1,0 +1,16 @@
+{
+  "name": "morph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Boris",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.9",
+    "ts-morph": "^20.0.0"
+  }
+}
